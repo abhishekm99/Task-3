@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textView">Task 3 Complete</string>
+    <string name="button">Second View</string>
+    <string name="textView2">Second Activity</string>
+    <string name="textView3">Application Has Started!</string>
+</resources>
